@@ -79,50 +79,50 @@ a+third+question+might+be+how+much+discord+did+the+eris+variant+cause?
 a+final+question+might+be+how+will+we+remember+this?
 one+hopes+there+will+be+great+expectations+on+this+front]
 covidstrings17mathproblemslist=[if78 percent of americans view death to2020s theme favorably how many dont?, if71 percent strongly approve how many are mild?,if the margin of error is7.5percent what is the range?,If+Only+20+Percent+Strongly+Agree+How+Many+Are+Mild?,If+The+Margin+Of+Error+Is+2.023+Percent+What+Is+The+Range?,If+63+Percent+Trusted+cnn+with+covid+information+how+many+didnt?,if+56+percent+strongly+trust+cnn+what+percent+is+mild?,if+the+margin+of+error+is+2and5/6+percent+what+is+the+range?]
-Covid Strings Multiple Choice List17=[1:A Hydroxychloroquine B Avidiivka C Ann Coulter Voting For Joe Biden D The GOP Going Down With The Ship,2:A Covid B The Tide Pod Challenge C Trump J6 Drama D People Believing Trump Is On The Right Side Of The14th Amendment,3: A Stacy Abrams B Ron DeSantis C Andrew Gillum D Alvin Bragg,4:A JN1 B Covid C HV1 D The Jeffrey Epstein Scandal,5:A Long Covid B Sick Leave Policies C Death D RSV,6: A mike johnson lies b fears c high hopes d john adams14th amendment,7 a silent b violent night c british d mexican,
-8: A Canada B Europes C Asias D Zealandias,9:A Significance B Victorianesqueness C Appeal D Power Of Jelly Roll,10:A What It Would Be Like To Live On Mercury B Gain Of Function Research C Putin Saying He Is Unrecognizable D Whether Gen Z Elects Joe Biden Again,11:A Milkcomeda B Andromeda C Khazmat D Trumpchurian,12:A Easy B Second C Third D Last,13:A Moon B Present C Future D A Storage Facility For Old US Aircraft,14:A Forget This B Cryogenically Freeze C Remember This  D Believe In Santa Claus,
-15:A Coinfection B Voting For Trump Being A Trap C Putin And Xi Carrying Nuclear Footballs D The Proud Boys Being Held Accountable,16:A Thanksgiving B Easter C Back To School D Christmas,17:A Plenty Of Primary Sources B Great Expectations C Jimmy Fallon Christmas Songs D New NASA Moon Missions,18:A Christmas B Halloween C4th Of July D Juneteenth,19:A The Virus B Americas Founding Fathers C The Supreme Court On January6th D Nikki Haley,20:A2049 B2075 C2020 D2077,21:A TV Series B Covid Archives C TV Shows About B117 In America D Jokes About How Bad Russias Air Defenses Are,
-22:A January6th B Being Disqualified Under The14th Amendment C The Idea Of America As Great Country D The Star Wars Franchise,23:A Christmas Songs B Fall Songs C The Courts Keeping Trump From Staying In Office Illegally D Biden Forgiving Student Loans]
-Covid Strings SentenceList17=[21Pilots Christmas Saves The Year Is Emblematic Of2020,Not All Christmas Songs Were About Covid,Covid Great Expectations Differ Depending On If Youre The Virus Or A Person,Like Trumps Efforts To Delay Being Disqualified Under The14th Amendment Covid Is Not Gone,The One Exception To Wanting2020 To Be Over Is Knowing The Top Christmas Songs Of2020 ,People+Would+Never+Forget+That+2020+Was+Covids+First+Year+In+America,Hopefully+There+Will+Be+Plenty+Of+Covid+Archives+In+The+Years+To+Come]
-Userin.Select Team
-Import Meta.
-Class MyClass
-Constructor (Non-Concatenated)
-Return Category
-If Category==Math Problem:
-Prompt
-Log
-Else:
-Select From Multiple Choice
-If Problem=Multiple Choice 
-Select From Multiple Choice
-Else
-Prompt 
-Log
-Myclass=New.Myclass(Concatenated)
-Return Category
-If Category==Math Problem:
-Prompt
-Log
-Else:
-Select From Multiple Choice
-If Problem=Multiple Choice 
-Select From Multiple Choice
-Else
-Prompt 
-Log
-Import Syntax 
-Substring(Start,End)
-Userin.Multiple Choice
-If SelectedAnswer==Correct Answer:
-Return True
-Else:
-Return False
-If Selectedanswer=Not Correct
-Return False
-Else 
-Return True
-
+covid strings multiple choice list17=[1:a hydroxychloroquine b avidiivka c ann coulter voting for joe biden d the gop going down with the ship,2:a covid b the tide pod challenge c trump j6 drama d people believing trump is on the right side of the14th amendment,3:a stacy abrams b ron desantis C Andrew Gillum D Alvin Bragg,4:a jn1 b covid c hv1 d the jeffrey epstein scandal,5:a long covid b sick leave policies c death d rsv,6: a mike johnson lies b fears c high hopes d john adams14th amendment,7 a silent b violent night c british d mexican,
+8:a canada b europes c asias d zealandias,9: a significance b victorianesqueness c appeal d power of jelly roll,10:a what it would be like to live on mercury b gain of function research c putin saying he is unrecognizable d whether gen z elects joe biden again,11:a milkcomeda b andromeda c khazmat d trumpchurian,12:a easy b second c third d last,13:a moon b present c future d a storage facility for old us aircraft,14:a forget this b cryogenically freeze c remember this  d believe in santa claus,
+15:a coinfection b voting for trump being a trap c putin and xi carrying nuclear footballs d the proud boys being held accountable,16:a thanksgiving b easter c back to school d christmas,17:a plenty of primary sources b great expectations c jimmy fallon christmas songs d new nasa moon Missions,18:A Christmas b halloween c 4th of july d juneteenth,19:a the virus b americas founding fathers c the supreme court on january6th d nikki haley,20:a2049 b2075 c2020 d2077,21:a tv series b covid archives c tv shows about b117 in america d jokes about how bad russias air defenses are,
+22:a january6th b being disqualified under the14th amendment c the idea of america as great country d the star wars franchise,23:a christmas songs b fall songs c the courts keeping trump from staying in office illegally d biden forgiving student loans]
+covidstringssentencelist17=[21pilots christmas saves the year is emblematic of2020,not all christmas songs were about covid,covid great expectations differ depending on if youre the virus or a person,like trumps efforts to delay being disqualified under the14th amendment covid is not gone,the one exception to wanting2020 to be over is knowing the top christmas songs of2020 ,people+would+never+forget+that+2020+was+covids+first+year+in+america,hopefully+there+will+be+plenty+of+covid+archives+in+the+years+to+come]
+userin.select team
+import meta.
+class myclass
+constructor (non-concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if problem=multiple choice 
+select from multiple choice
+else
+prompt 
+log
+myclass=new.myclass(concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if problem=multiple choice 
+select from multiple choice
+else
+prompt 
+log
+import syntax 
+substring(start,end)
+userin.multiple choice
+if selectedanswer==correct answer:
+return true
+else:
+return false
+if selectedanswer=not correct
+return false
+else 
+return true
+return filename
 
 
 
