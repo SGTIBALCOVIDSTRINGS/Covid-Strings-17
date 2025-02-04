@@ -10,7 +10,7 @@ highest  remaining seed=(greatest remaining num value in covid strings list)
 lowest remaining seed = (lowest remaining num value in covid strings list)
 intermediate seed1=(first middle remaining value in covid strings list)
 intermediate seed2=(second middle remaining value in covid strings list)
-round =CreateElement(div);
+round =create element(div);
 createround =covid Strings17 second round 
 round.classlist.add(round);
 for (let i = zero; i < teams.length; i += two) 
