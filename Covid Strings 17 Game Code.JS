@@ -1,6 +1,6 @@
 doc.type.html
 script
-filename=covidstrings17gamecode.js
+filename=covidstrings17.js
 java.awt graphics
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
@@ -11,10 +11,10 @@ audio=new audio (audio_file mp3)
 audio.play 
 random button
 new button (set random color)
-private final j button option button=
+option button
 new  button (change color)
 public fun with graphics()
-color panel=new j panel();
+color panel=new  panel();
 add (panel,center)
 button panel
 new panel (flowlayout.center)
