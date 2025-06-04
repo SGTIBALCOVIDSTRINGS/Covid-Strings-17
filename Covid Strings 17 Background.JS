@@ -1,5 +1,23 @@
 doc.type.html
+html lang en 
 script
+header=document create.element(header)
+header.style.backgroundcolor=#4caf50
+header.style.color=’white’
+header.style.padding=’10px’
+header.style.textalign=’center’
+header.style.text.fontsize=’24px’
+header.textcontent=’covid strings17
+document appendchild(header)
+<header.html>
+heading variables 
+the heading numbers that determine where each heading and subheading go 
+heading1=#background overview
+heading2=#functions
+heading3=background code 
+<header.html>
+background overview
+background for covid strings17
 filename=covidstrings17background.js
 java.awt graphics
 this.img=document.createelement(covid)
@@ -9,33 +27,39 @@ src.appendchild(this.img)
 <div id=header></div>
 audio=new audio(audio_file mp3)
 audio.play 
-jbutton random button
-new jbutton (set random color)
-private final j button option button=
-new j button (change color)
+random button
+new button (set random color)
+option button
+new  button (change color)
 public fun with graphics(){
-jpanel color panel=new j panel();
+color panel=new j panel();
 this add (panel,center)
-jpanel button panel=
-new j panel (flowlayout.center)
+button panel
+new  panel (flowlayout.center)
 buttonpanel.add(randombutton);
-random.button add actionlistener(new action listener())
+random.button add actionlistener(new action listener)
 override 
 public actionperformed(actionevent e)
 random r= newrandom();
+<header.html>
+background functions 
+functions used in covid strings17 Background
 colorpanel.setbackground(new color(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)((RNextInt(13)))
 buttonpanel.add(optionbutton);
-optionbutton.add actionlistener(new action listener(){
+optionbutton.add actionlistener(new action listener)
 override 
+<header.html>
+background code
+code to program game background
 public actionperformed(actionevente)
 color m=jcolorchooser.showdialog(funwithgraphics.this)
 if(multi!=null)
 color panel set.background(multi)
 this.add(buttonpanel,borderlayout.south)
-public static main(string []args){
+public static main(string []args)
 jframef = new covid strings17()
 f.set title(covid strings17)
-f.set default closeoperation(jframe.exit_on_close);
+f.set default closeoperation(exit_on_close);
 f.setsize
 f.set visible(true);
 <label id=lblscore>zero</label>
@@ -51,7 +75,7 @@ score+=twenty
 else:
 score-=twenty
 lblscore=document.getelementbyid(lblscore)
-lbl.score.innerHTML=score
+lbl.score.inner html=score
 public actionperformed(action event e) 
 system.out print.in (next button clicked)
 frame.add(next button);
