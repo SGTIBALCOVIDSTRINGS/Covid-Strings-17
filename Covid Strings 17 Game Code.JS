@@ -238,7 +238,10 @@ prompt
 log
 import syntax 
 substring(start,end)
-userin.multiple choice
+<header.html>
+answer checker
+the feature within covid strings that allows the software to check whether a users answer is correct
+for multiple choice questions in covid strings 
 if selectedanswer==correct answer:
 return true
 else:
@@ -247,6 +250,22 @@ if selectedanswer=not correct
 return false
 else 
 return true
+for math problems in covid strings
+if typed answer ==correct
+return true
+else:
+return false
+if typed answer==not correct
+return false
+else
+return true
+public static main(string[]args)
+int number
+number=number*2
+system.out print in (“the number is“ +number)
+<subheading.html>
+answer scanner
+the feature within the covid strings answer checker that allows for confirmation of the user 
 answer checker
 scanner=new scanner(system.in)
 string correct answer
@@ -256,15 +275,26 @@ system.out.print.in(correct)
 else:
 system.out.printin(incorrect)
 scanner.close
+<header.html>
+winner checker
+the feature within covid strings that allows for the player to know if their team won 
 check winner:
 if winner==true:
 log(the winner is)
+else:
+remain
 if winner==false:
-log(no winner yet) 
+log(no winner yet)
+else:
+log winner
 if users team wins covid strings17 
 console log users team wins covid strings17 
 else
+remain
+if users team loses covid strings17
 return game over
+else
+remain
 return filename
 
 
