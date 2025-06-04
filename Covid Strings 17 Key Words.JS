@@ -1,14 +1,49 @@
 doc.type.html
+html lang en 
 script
+header=document create.element(header)
+header.style.backgroundcolor=#4caf50
+header.style.color=’white’
+header.style.padding=’10px’
+header.style.textalign=’center’
+header.style.text.fontsize=’24px’
+header.textcontent=’welcome to covid strings17
+document appendchild(header)
+<header.html>
+heading variables 
+the heading numbers that determine where each heading and subheading go 
+heading1=keywords
+heading2=online references 
+heading3=script templates
 filename=covid strings 17 key words.js
+<header.html>
+keywords
+key search words for covid strings17
 covid strings 17 key word list=[killing 17,000 people worse than trump claim desantis vaxing everything,perception of people getting sick,covid shots antichrist,dont be fooled into thinking,impact exercise,coronavirus town hall,trump silent during covid,response was better,death to 2020 and death to 2021,accurate pandemic movie precisent 3 million years from now,how much discord,a final question,covid and flu risk,21 pilots,one hopes,never forget covids first year,like trumps efforts not gone,top 2020]
+string manager non-concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
 string=””
-for string in covid strings search word list
+string manager concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings key word list
 select characters
 edit diffuse property
 desired color=green
-covid strings17 reference list=[a:covid miracle drug that donald trump urged people to take killed 17,000 (msn.com)b:fact check:trump makes four false claims related to desantis |cnn politics,c:why it seems like everyone is sick right now and covid isnt to blame (msn.com),d:why it feels like everyone you know is getting covid-19 (msn.com),e:desantis anti-vax surgeon general dr.joseph ladapo calls covid shots the antichrist (thedailybeast.com),f:covid variant hv.1 is still spreading.these are its most common symptoms (msn.com),g:study unveils biological changes in long covid patients leading to exercise intolerance (msn.com),h:watch the entire cnn coronavirus town hall |cnn, i:amazon.com:silent invasion:the untold story of the trump administration,covid-19,and preventing the next pandemic before its too late: 9780063204232:birx,deborah:libros,j:bill maher praises europes covid response,slams stupid us vax mandates (msn.com),k:death to 2020 (2020) |rotten tomatoes death to 2021 -wikipedia,l: 10 best pandemic movies -stream pandemic movies on netflix,amazon prime & hulu (townandcountrymag.com),
-m:the andromeda and milky way collision,explained(astronomy.com),n:new covid variant named after the goddess of discord and strife -exemplore news,o:how will covid be remembered?|wired,p:with covid and flu surging at the same time,how big is the risk of coinfection? (msn.com),q:twenty one pilots christmas saves the year lyrics |genius lyrics,r:jmir public health and surveillance -with great hopes come great expectations:access and adoption issues associated with covid-19 vaccines,s:you never forget your first:a biography of george washington by alexis coe|goodreads,t:how john adams is helping bring down donald trump through the 14th amendment -raw story,u:americas top testing christmas songs 2020 (radio-online.com)]
+<header.html>
+online references 
+links to articles that correspond to phrases in covid strings17
+covid strings17 reference list=[a:covid miracle drug that donald trump urged people to take killed 17,000 (msn.com)b:fact check:trump makes four false claims related to desantis |cnn politics,c:why it seems like everyone is sick right now and covid isnt to blame (msn.com),d:why it feels like everyone you know is getting covid-19 (msn.com),e:desantis anti-vax surgeon general dr.joseph ladapo calls covid shots the antichrist (thedailybeast.com),f:covid variant hv.1 is still spreading.these are its most common symptoms (msn.com),g:study unveils biological changes in long covid patients leading to exercise intolerance (msn.com),h:watch the entire cnn coronavirus town hall |cnn, i:amazon.com:silent invasion:the untold story of the trump administration,covid-19,and preventing the next pandemic before its too late: 9780063204232:birx,deborah:libros,j:bill maher praises europes covid response,slams stupid us vax mandates (msn.com),
+k:death to 2020 (2020) |rotten tomatoes death to 2021 -wikipedia,l: 10 best pandemic movies -stream pandemic movies on netflix,amazon prime & hulu (townandcountrymag.com),
+m:the andromeda and milky way collision,explained(astronomy.com),n:new covid variant named after the goddess of discord and strife -exemplore news,o:how will covid be remembered?|wired,p:with covid and flu surging at the same time,how big is the risk of coinfection? (msn.com),q:twenty one pilots christmas saves the year lyrics |genius lyrics,r:jmir public health and surveillance -with great hopes come great expectations:access and adoption issues associated with covid-19 vaccines,
+s:you never forget your first:a biography of george washington by alexis coe|goodreads,t:how john adams is helping bring down donald trump through the 14th amendment -raw story,u:americas top testing christmas songs 2020 (radio-online.com)]
+<header.html>
+script templates
+code for accessing the references
 asset=this app.assets.find()
 template asset resource 
 entity template instantiate
