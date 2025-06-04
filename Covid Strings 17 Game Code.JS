@@ -7,7 +7,7 @@ header.style.color=’white’
 header.style.padding=’10px’
 header.style.textalign=’center’
 header.style.text.fontsize=’24px’
-header.textContent=’welcome to covid strings17’
+header.textcontent=’welcome to covid strings17’
 document appendchild(header)
 <header.html>
 heading variables 
